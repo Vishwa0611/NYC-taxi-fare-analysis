@@ -50,4 +50,14 @@ This project explores:
 - Scikit-learn (Linear Regression, Metrics)
 - Statistical Testing (T-test)
 
+---
+
+## 📂 Dataset
+
+Due to the **large size of the dataset**, it is not included in this repository.  
+You can download the dataset used in this project from the official U.S. Government open data portal:
+
+🔗 [Click here to download the NYC Yellow Taxi Trip Data (January–June 2020)](https://catalog.data.gov/dataset/2020-yellow-taxi-trip-data-january-june)
+
+
 
