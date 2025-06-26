@@ -50,7 +50,4 @@ This project explores:
 - Scikit-learn (Linear Regression, Metrics)
 - Statistical Testing (T-test)
 
----
-
-## 📁 Folder Structure
 
